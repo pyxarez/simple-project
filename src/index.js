@@ -1,3 +1,3 @@
-import './part1';
+import './part1_Recursion';
 
-console.log('That just works');
+console.log('Index starts');
